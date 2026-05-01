@@ -106,12 +106,10 @@ Skilled in UI development, state management, and backend integration using Fireb
   <a href="https://facebook.com/juwelzan">
     <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" />
   </a>
+  <a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+
 </p>
-<p align="center">
-  <a href="www.linkedin.com/in/md-juwel-rana-161b59240">
-    <img src="https://img.icons8.com/color/48/linkedin-new.png" width="40" />
-  </a>
-</p>
+
 
 ---
 
