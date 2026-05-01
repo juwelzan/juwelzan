@@ -1,9 +1,15 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Md Juwel Rana</h1>
-<h3 align="center">🚀 Flutter Developer | Mobile App Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juwelzan&label=Profile%20views&color=0e75b6&style=flat" alt="juwelzan" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;Clean+Architecture+Lover;Building+Scalable+Apps;Always+Learning+New+Things" />
+</p>
+
+---
+
+<!-- ================= PROFILE VIEWS ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juwelzan&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -11,18 +17,18 @@
 <!-- ================= ABOUT ================= -->
 ## 🧠 About Me
 
-- 🔭 I’m currently working on **Ecommerce Flutter App**
-- 🌱 I’m learning **Advanced Flutter, Clean Architecture, Appwrite**
+- 🔭 Currently building **Ecommerce Flutter App**
+- 🌱 Learning **Advanced Flutter, Appwrite, Clean Architecture**
 - 💬 Ask me about **Flutter, Dart, Firebase**
-- ⚡ Fun fact: I love building real-world apps
+- ⚡ Passionate about creating real-world apps
 
 ---
 
 <!-- ================= SKILLS ================= -->
-## 🚀 Skills & Technologies
+## 🚀 Skills & Tools
 
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,appwrite,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,appwrite,git,github,vscode,androidstudio" />
 </p>
 
 ---
@@ -31,17 +37,17 @@
 ## 📱 Featured Projects
 
 ### 🛒 Ecommerce App
-- Product filtering & search
-- Cart & checkout system
-- Firebase backend
+✔️ Product filtering  
+✔️ Cart system  
+✔️ Firebase integration  
 
 ### 🎥 YouTube Clone
-- Video UI design
-- Custom player UI
+✔️ Custom video UI  
+✔️ Modern design  
 
 ### 🍔 Recipe App
-- Category-based recipes
-- Clean UI design
+✔️ Category filtering  
+✔️ Clean UI  
 
 ---
 
@@ -58,7 +64,7 @@
 
 ---
 
-<!-- ================= CONTRIBUTION ================= -->
+<!-- ================= ACTIVITY GRAPH ================= -->
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -67,12 +73,32 @@
 
 ---
 
+<!-- ================= SNAKE ANIMATION ================= -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juwelzan/juwelzan/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- ================= BADGES ================= -->
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Developer-blue?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-Expert-blue?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase" />
+</p>
+
+---
+
 <!-- ================= CONTACT ================= -->
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://facebook.com/juwelzan" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/facebook-new.png" height="30" width="30" />
+<p align="center">
+  <a href="https://facebook.com/juwelzan">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" />
   </a>
 </p>
 
@@ -80,5 +106,5 @@
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  💻 "Code. Build. Learn. Repeat." 🚀
+  🚀 "Code. Build. Grow." 🔥
 </p>
