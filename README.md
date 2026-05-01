@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>Flutter Developer | Mobile App Engineer</b><br>
-  Building Scalable, High-Performance Mobile Applications 🚀
+  Building Scalable & High-Performance Mobile Applications 🚀
 </p>
 
 <p align="center">
@@ -16,20 +16,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=juwelzan&label=Profile%20Views&color=blue&style=flat" />
   <img src="https://img.shields.io/github/followers/juwelzan?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/juwelzan?label=Stars&style=social" />
 </p>
 
 ---
 
-<!-- ================= SUMMARY ================= -->
 ## 🧠 Professional Summary
 
-Flutter developer with a strong focus on building scalable and maintainable mobile applications using **Clean Architecture**.  
-Experienced in developing real-world apps with advanced UI, state management, and backend integration.
+Flutter developer focused on building scalable, maintainable, and production-ready mobile applications using **Clean Architecture**.
+
+Skilled in UI development, state management, and backend integration using Firebase & Appwrite.
 
 ---
 
-<!-- ================= SKILLS ================= -->
 ## ⚙️ Tech Stack
 
 <p align="center">
@@ -40,41 +38,41 @@ Experienced in developing real-world apps with advanced UI, state management, an
 - Flutter (UI + Performance Optimization)
 - Dart Programming
 - REST API Integration
-- Firebase & Appwrite Backend
-- Clean Architecture & State Management
+- Firebase & Appwrite
+- Clean Architecture
+- State Management (GetX / Riverpod)
 
 ---
 
-<!-- ================= PROJECTS ================= -->
 ## 🚀 Key Projects
 
 ### 🛒 Ecommerce Application
-- Advanced product filtering & search
-- Cart, checkout, and authentication system
-- Scalable architecture implementation  
+- Product filtering & search system
+- Cart & checkout flow
+- Clean Architecture implementation  
 
-📂 Repo: https://github.com/juwelzan/ecommerce  
+🔗 https://github.com/juwelzan/ecommerce  
 
 ---
 
 ### 🎥 YouTube Clone
 - Custom video player UI
-- Responsive and modern design  
+- Responsive design system
+- API-based video loading  
 
-📂 Repo: https://github.com/juwelzan/youtube-clone  
+🔗 https://github.com/juwelzan/youtube-clone  
 
 ---
 
-### 🍔 Recipe Application
+### 🍔 Recipe App
 - Category-based filtering
-- Clean and user-friendly UI  
+- Clean UI with smooth UX  
 
-📂 Repo: https://github.com/juwelzan/recipe-app  
+🔗 https://github.com/juwelzan/recipe-app  
 
 ---
 
-<!-- ================= STATS ================= -->
-## 📊 GitHub Performance
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juwelzan&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -86,7 +84,6 @@ Experienced in developing real-world apps with advanced UI, state management, an
 
 ---
 
-<!-- ================= GRAPH ================= -->
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -95,8 +92,7 @@ Experienced in developing real-world apps with advanced UI, state management, an
 
 ---
 
-<!-- ================= SNAKE ================= -->
-## 🐍 Contribution Animation
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/juwelzan/juwelzan/output/github-contribution-grid-snake.svg" />
@@ -104,7 +100,6 @@ Experienced in developing real-world apps with advanced UI, state management, an
 
 ---
 
-<!-- ================= CONTACT ================= -->
 ## 📬 Contact
 
 <p align="center">
@@ -115,7 +110,6 @@ Experienced in developing real-world apps with advanced UI, state management, an
 
 ---
 
-<!-- ================= FOOTER ================= -->
 <p align="center">
-  <i>"Consistency and continuous learning define great developers."</i>
+  <i>"Consistency + Practice = Professional Developer"</i>
 </p>
