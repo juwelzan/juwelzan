@@ -31,7 +31,7 @@ Skilled in UI development, state management, and backend integration using Fireb
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,appwrite,supabase,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,appwrite,supabase,restapi,git,github,vscode,androidstudio" />
 </p>
 
 ### 🔧 Core Skills
