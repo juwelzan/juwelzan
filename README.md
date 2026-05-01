@@ -2,14 +2,15 @@
 <h1 align="center">Hi 👋, I'm Md Juwel Rana</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;Clean+Architecture+Lover;Building+Scalable+Apps;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;Clean+Architecture+Expert;Building+Scalable+Apps" />
 </p>
 
 ---
 
-<!-- ================= PROFILE VIEWS ================= -->
+<!-- ================= BADGES ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juwelzan&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=juwelzan&label=Profile%20Views&color=blue" />
+  <img src="https://img.shields.io/github/followers/juwelzan?label=Followers&style=social" />
 </p>
 
 ---
@@ -17,15 +18,14 @@
 <!-- ================= ABOUT ================= -->
 ## 🧠 About Me
 
-- 🔭 Currently building **Ecommerce Flutter App**
-- 🌱 Learning **Advanced Flutter, Appwrite, Clean Architecture**
-- 💬 Ask me about **Flutter, Dart, Firebase**
-- ⚡ Passionate about creating real-world apps
+🚀 Passionate Flutter Developer from Bangladesh  
+💼 Focused on building scalable & real-world applications  
+📚 Currently learning **Advanced Flutter & Appwrite**  
 
 ---
 
 <!-- ================= SKILLS ================= -->
-## 🚀 Skills & Tools
+## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,appwrite,git,github,vscode,androidstudio" />
@@ -33,21 +33,46 @@
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-## 📱 Featured Projects
+<!-- ================= PROJECT SHOWCASE ================= -->
+## 📱 Project Showcase
 
 ### 🛒 Ecommerce App
-✔️ Product filtering  
-✔️ Cart system  
-✔️ Firebase integration  
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Ecommerce+App+UI" />
+</p>
+
+✔️ Product filtering & search  
+✔️ Cart & checkout system  
+✔️ Firebase backend  
+
+🔗 **Live Demo:** https://your-demo-link.com  
+📂 **Repository:** https://github.com/juwelzan/ecommerce  
+
+---
 
 ### 🎥 YouTube Clone
-✔️ Custom video UI  
-✔️ Modern design  
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=YouTube+Clone+UI" />
+</p>
+
+✔️ Video player UI  
+✔️ Responsive layout  
+
+🔗 **Live Demo:** https://your-demo-link.com  
+📂 **Repository:** https://github.com/juwelzan/youtube-clone  
+
+---
 
 ### 🍔 Recipe App
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Recipe+App+UI" />
+</p>
+
 ✔️ Category filtering  
 ✔️ Clean UI  
+
+🔗 **Live Demo:** https://your-demo-link.com  
+📂 **Repository:** https://github.com/juwelzan/recipe-app  
 
 ---
 
@@ -55,25 +80,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juwelzan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juwelzan&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juwelzan&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juwelzan&theme=radical" />
 </p>
 
 ---
 
-<!-- ================= ACTIVITY GRAPH ================= -->
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juwelzan&theme=tokyo-night" />
-</p>
-
----
-
-<!-- ================= SNAKE ANIMATION ================= -->
+<!-- ================= SNAKE ================= -->
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -82,19 +98,8 @@
 
 ---
 
-<!-- ================= BADGES ================= -->
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Developer-blue?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/Dart-Expert-blue?style=for-the-badge&logo=dart" />
-  <img src="https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase" />
-</p>
-
----
-
 <!-- ================= CONTACT ================= -->
-## 📫 Connect With Me
+## 📫 Contact Me
 
 <p align="center">
   <a href="https://facebook.com/juwelzan">
@@ -106,5 +111,5 @@
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  🚀 "Code. Build. Grow." 🔥
+  ⭐ If you like my work, give a star ⭐
 </p>
