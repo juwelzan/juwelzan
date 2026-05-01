@@ -40,7 +40,7 @@ Skilled in UI development, state management, and backend integration using Fireb
 - REST API Integration
 - Firebase & Appwrite
 - Clean Architecture
-- State Management (GetX / Riverpod)
+- State Management (GetX / Riverpod / Bloc / Provider)
 
 ---
 
