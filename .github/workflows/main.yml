@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Generate Snake SVG
@@ -19,7 +19,7 @@ jobs:
           github_user_name: juwelzan
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Deploy to output branch
+      - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
