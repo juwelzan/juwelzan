@@ -31,7 +31,7 @@ Skilled in UI development, state management, and backend integration using Fireb
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,appwrite,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,appwrite,supabase,git,github,vscode,androidstudio" />
 </p>
 
 ### 🔧 Core Skills
@@ -60,7 +60,7 @@ Skilled in UI development, state management, and backend integration using Fireb
 - Responsive design system
 - API-based video loading  
 
-🔗 https://github.com/juwelzan/youtube-clone  
+🔗 https://github.com/juwelzan/youtubelite
 
 ---
 
@@ -68,7 +68,7 @@ Skilled in UI development, state management, and backend integration using Fireb
 - Category-based filtering
 - Clean UI with smooth UX  
 
-🔗 https://github.com/juwelzan/recipe-app  
+🔗 https://github.com/juwelzan/recipebook 
 
 ---
 
