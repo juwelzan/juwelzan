@@ -180,22 +180,69 @@ class JuwelRana extends FlutterDeveloper {
 
 <div align="center">
 
-### State Management
-<p>
-  <img src="https://img.shields.io/badge/GetX-6C3483?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Riverpod-13B9FD?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bloc-1E3A5F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
+### 🔄 State Management
 
-### Architecture Patterns
-<p>
-  <img src="https://img.shields.io/badge/Clean_Architecture-00C2FF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/MVVM-0A84FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC-8E44AD?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOLID_Principles-FF6B35?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repository_Pattern-00C853?style=for-the-badge&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/GetX-6C3483?style=for-the-badge&logo=flutter&logoColor=white" /><br/>
+      <sub>⚡ Fast & Simple</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logo=dart&logoColor=white" /><br/>
+      <sub>🛡️ Type-safe & Robust</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/BLoC-1E3A5F?style=for-the-badge&logo=flutter&logoColor=white" /><br/>
+      <sub>🏢 Enterprise-grade</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br/>
+      <sub>🌿 Lightweight</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🧱 Architecture Patterns
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/🏛️_Clean-Architecture-00C2FF?style=flat-square&logoColor=black" /><br/><br/>
+      <img src="https://img.shields.io/badge/Separation_of_Concerns-0D1117?style=flat-square&labelColor=00C2FF&color=0D1117" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/📐_MVVM-Pattern-0A84FF?style=flat-square" /><br/><br/>
+      <img src="https://img.shields.io/badge/Model_View_ViewModel-0D1117?style=flat-square&labelColor=0A84FF&color=0D1117" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/🔷_SOLID-Principles-8E44AD?style=flat-square" /><br/><br/>
+      <img src="https://img.shields.io/badge/5_Design_Principles-0D1117?style=flat-square&labelColor=8E44AD&color=0D1117" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/📦_Repository-Pattern-00C853?style=flat-square" /><br/><br/>
+      <img src="https://img.shields.io/badge/Data_Abstraction_Layer-0D1117?style=flat-square&labelColor=00C853&color=0D1117" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+```
+Clean Architecture Layer Diagram
+╔══════════════════════════════════════════╗
+║           📱 Presentation Layer           ║  ← UI, Widgets, Pages
+║      (Flutter Widgets + State Mgmt)       ║
+╠══════════════════════════════════════════╣
+║             🧠 Domain Layer               ║  ← Business Logic
+║         (Use Cases + Entities)            ║
+╠══════════════════════════════════════════╣
+║              💾 Data Layer                ║  ← API, DB, Models
+║     (Repository + Remote + Local)         ║
+╚══════════════════════════════════════════╝
+```
 
 </div>
 
@@ -209,16 +256,62 @@ class JuwelRana extends FlutterDeveloper {
 
 <div align="center">
 
-| Skill | Level | Status |
-|:------|:------|:------:|
-| Flutter UI Development | ████████░░ 80% | ✅ Strong |
-| Dart Programming | ███████░░░ 70% | ✅ Growing |
-| REST API Integration | ███████░░░ 70% | ✅ Strong |
-| Firebase / BaaS | ██████░░░░ 60% | 🔄 Active |
-| State Management (GetX) | ███████░░░ 75% | ✅ Strong |
-| State Management (Bloc) | █████░░░░░ 50% | 🔄 Learning |
-| Clean Architecture | ██████░░░░ 65% | 🔄 Learning |
-| Widget Testing | ███░░░░░░░ 30% | 📚 Studying |
+<table>
+  <tr>
+    <th align="left" width="220">🛠️ Skill</th>
+    <th align="left" width="260">📈 Progress</th>
+    <th align="center" width="100">💯 Level</th>
+    <th align="center" width="110">🏷️ Status</th>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=flutter" width="20"/> &nbsp;<b>Flutter UI Dev</b></td>
+    <td><img src="https://geps.dev/progress/80?dangerColor=0A84FF&warningColor=0A84FF&successColor=0A84FF" /></td>
+    <td align="center"><code>80%</code></td>
+    <td align="center">✅ Strong</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=dart" width="20"/> &nbsp;<b>Dart Programming</b></td>
+    <td><img src="https://geps.dev/progress/70?dangerColor=0175C2&warningColor=0175C2&successColor=0175C2" /></td>
+    <td align="center"><code>70%</code></td>
+    <td align="center">✅ Growing</td>
+  </tr>
+  <tr>
+    <td>🌐 &nbsp;<b>REST API Integration</b></td>
+    <td><img src="https://geps.dev/progress/70?dangerColor=FF6B35&warningColor=FF6B35&successColor=FF6B35" /></td>
+    <td align="center"><code>70%</code></td>
+    <td align="center">✅ Strong</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=firebase" width="20"/> &nbsp;<b>Firebase / BaaS</b></td>
+    <td><img src="https://geps.dev/progress/60?dangerColor=FFCA28&warningColor=FFCA28&successColor=FFCA28" /></td>
+    <td align="center"><code>60%</code></td>
+    <td align="center">🔄 Active</td>
+  </tr>
+  <tr>
+    <td>⚡ &nbsp;<b>State Mgmt (GetX)</b></td>
+    <td><img src="https://geps.dev/progress/75?dangerColor=6C3483&warningColor=6C3483&successColor=6C3483" /></td>
+    <td align="center"><code>75%</code></td>
+    <td align="center">✅ Strong</td>
+  </tr>
+  <tr>
+    <td>🏢 &nbsp;<b>State Mgmt (BLoC)</b></td>
+    <td><img src="https://geps.dev/progress/50?dangerColor=1E3A5F&warningColor=1E3A5F&successColor=1E3A5F" /></td>
+    <td align="center"><code>50%</code></td>
+    <td align="center">🔄 Learning</td>
+  </tr>
+  <tr>
+    <td>🏛️ &nbsp;<b>Clean Architecture</b></td>
+    <td><img src="https://geps.dev/progress/65?dangerColor=00C2FF&warningColor=00C2FF&successColor=00C2FF" /></td>
+    <td align="center"><code>65%</code></td>
+    <td align="center">🔄 Learning</td>
+  </tr>
+  <tr>
+    <td>🧪 &nbsp;<b>Widget Testing</b></td>
+    <td><img src="https://geps.dev/progress/30?dangerColor=E74C3C&warningColor=E74C3C&successColor=E74C3C" /></td>
+    <td align="center"><code>30%</code></td>
+    <td align="center">📚 Studying</td>
+  </tr>
+</table>
 
 </div>
 
