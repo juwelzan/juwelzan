@@ -33,8 +33,7 @@
 ## 🧑‍💻 About Me
 
 ```dart
-/// A passionate Flutter developer from Bangladesh 🇧🇩
-/// who turns caffeine into clean, scalable mobile apps.
+
 
 class JuwelRana extends FlutterDeveloper {
   // ─── Identity ───────────────────────────────────
@@ -44,21 +43,42 @@ class JuwelRana extends FlutterDeveloper {
   final String status   = "Open to work & collaboration 🤝";
 
   // ─── What I'm Working On ────────────────────────
-  final List<String> currentFocus = [
-    "🏗️  Clean Architecture & SOLID Principles",
-    "🔄  State Management (GetX / Riverpod / Bloc)",
-    "🌐  REST API & Backend Integration",
-    "🎨  Pixel-perfect UI & Performance Optimization",
-    "🔥  Firebase & Appwrite BaaS Integration",
-  ];
+final List<String> currentFocus = [
+  "🏗️ Clean Architecture",
+  "📦 Advanced Riverpod State Management",
+  "🌐 REST API & Backend Integration",
+  "🔥 Firebase Integration",
+  "🧩 Flutter Plugin Development",
+  "🔗 MethodChannel & Native Platform Integration",
+  "🎨 CustomPaint & Custom Widgets",
+  "📐 RenderBox & Custom Render Objects",
+  "⚡ Flutter Performance Optimization",
+  "🧪 Widget & Unit Testing",
+];
 
   // ─── What I'm Learning ──────────────────────────
   final List<String> learning = [
-    "📦  Advanced Riverpod patterns",
-    "🧪  Widget & Unit Testing in Flutter",
-    "⚡  Flutter Performance Profiling",
-    "🛠️  CI/CD with GitHub Actions",
-  ];
+  "📦 Advanced  State Management",
+  "🧪 Widget & Unit Testing in Flutter",
+  "⚡ Flutter Performance Profiling",
+  "🖼️ CustomPaint & Canvas API",
+  "📐 RenderBox & Custom Render Objects",
+  "🔗 MethodChannel & Platform Channels",
+  "⚙️ Flutter Plugin Development",
+  "🎨 Custom Widgets & Render Objects",
+  "🚀 Flutter Engine & Rendering Pipeline",
+  "📱 Native Android (Kotlin) Integration",
+  "🍎 Native iOS (Swift) Integration",
+  "🧩 Platform Views",
+  "🎞️ Advanced Animations",
+  "🛠️ Isolates & Background Processing",
+  "📊 DevTools & Performance Optimization",
+  "🧠 Memory Management",
+  "🌐 WebAssembly (Wasm) for Flutter Web",
+  "🔐 App Security & Code Obfuscation",
+  "📦 Package & Plugin Publishing",
+  "🤖 CI/CD with GitHub Actions",
+];
 
   // ─── Fun Facts ──────────────────────────────────
   final Map<String, String> funFacts = {
@@ -73,10 +93,7 @@ class JuwelRana extends FlutterDeveloper {
   String get philosophy =>
       "Consistency + Practice = Professional Developer 🎯";
 
-  @override
-  String toString() =>
-      "Building apps that users love, one widget at a time ❤️";
-}
+
 ```
 
 ---
@@ -135,10 +152,6 @@ class JuwelRana extends FlutterDeveloper {
       <sub><b>GitHub</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br/>
-      <sub><b>Figma</b></sub>
-    </td>
-    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br/>
       <sub><b>Postman</b></sub>
     </td>
@@ -158,14 +171,13 @@ class JuwelRana extends FlutterDeveloper {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=flat-square&logo=postman&logoColor=white)
+
 
 **🛠️ Tools**&nbsp;
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
@@ -186,202 +198,34 @@ class JuwelRana extends FlutterDeveloper {
   <tr>
     <td align="center" width="160">
       <img src="https://img.shields.io/badge/GetX-6C3483?style=for-the-badge&logo=flutter&logoColor=white" /><br/>
-      <sub>⚡ Fast & Simple</sub>
     </td>
     <td align="center" width="160">
       <img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logo=dart&logoColor=white" /><br/>
-      <sub>🛡️ Type-safe & Robust</sub>
     </td>
     <td align="center" width="160">
       <img src="https://img.shields.io/badge/BLoC-1E3A5F?style=for-the-badge&logo=flutter&logoColor=white" /><br/>
-      <sub>🏢 Enterprise-grade</sub>
     </td>
     <td align="center" width="160">
       <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br/>
-      <sub>🌿 Lightweight</sub>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### 🧱 Architecture Patterns
 
-<table>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/🏛️_Clean-Architecture-00C2FF?style=flat-square&logoColor=black" /><br/><br/>
-      <img src="https://img.shields.io/badge/Separation_of_Concerns-0D1117?style=flat-square&labelColor=00C2FF&color=0D1117" />
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/📐_MVVM-Pattern-0A84FF?style=flat-square" /><br/><br/>
-      <img src="https://img.shields.io/badge/Model_View_ViewModel-0D1117?style=flat-square&labelColor=0A84FF&color=0D1117" />
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/🔷_SOLID-Principles-8E44AD?style=flat-square" /><br/><br/>
-      <img src="https://img.shields.io/badge/5_Design_Principles-0D1117?style=flat-square&labelColor=8E44AD&color=0D1117" />
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/📦_Repository-Pattern-00C853?style=flat-square" /><br/><br/>
-      <img src="https://img.shields.io/badge/Data_Abstraction_Layer-0D1117?style=flat-square&labelColor=00C853&color=0D1117" />
-    </td>
-  </tr>
-</table>
 
-<br/>
 
-```
-Clean Architecture Layer Diagram
-╔══════════════════════════════════════════╗
-║           📱 Presentation Layer           ║  ← UI, Widgets, Pages
-║      (Flutter Widgets + State Mgmt)       ║
-╠══════════════════════════════════════════╣
-║             🧠 Domain Layer               ║  ← Business Logic
-║         (Use Cases + Entities)            ║
-╠══════════════════════════════════════════╣
-║              💾 Data Layer                ║  ← API, DB, Models
-║     (Repository + Remote + Local)         ║
-╚══════════════════════════════════════════╝
-```
 
-</div>
+
+
+
 
 ---
 
-<!-- ══════════════════════════════════════════════ -->
-<!--              SKILLS OVERVIEW                   -->
-<!-- ══════════════════════════════════════════════ -->
 
-## 📊 Skills Overview
 
-<div align="center">
 
-<table>
-  <tr>
-    <th align="left" width="220">🛠️ Skill</th>
-    <th align="left" width="260">📈 Progress</th>
-    <th align="center" width="100">💯 Level</th>
-    <th align="center" width="110">🏷️ Status</th>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=flutter" width="20"/> &nbsp;<b>Flutter UI Dev</b></td>
-    <td><img src="https://geps.dev/progress/80?dangerColor=0A84FF&warningColor=0A84FF&successColor=0A84FF" /></td>
-    <td align="center"><code>80%</code></td>
-    <td align="center">✅ Strong</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=dart" width="20"/> &nbsp;<b>Dart Programming</b></td>
-    <td><img src="https://geps.dev/progress/70?dangerColor=0175C2&warningColor=0175C2&successColor=0175C2" /></td>
-    <td align="center"><code>70%</code></td>
-    <td align="center">✅ Growing</td>
-  </tr>
-  <tr>
-    <td>🌐 &nbsp;<b>REST API Integration</b></td>
-    <td><img src="https://geps.dev/progress/70?dangerColor=FF6B35&warningColor=FF6B35&successColor=FF6B35" /></td>
-    <td align="center"><code>70%</code></td>
-    <td align="center">✅ Strong</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=firebase" width="20"/> &nbsp;<b>Firebase / BaaS</b></td>
-    <td><img src="https://geps.dev/progress/60?dangerColor=FFCA28&warningColor=FFCA28&successColor=FFCA28" /></td>
-    <td align="center"><code>60%</code></td>
-    <td align="center">🔄 Active</td>
-  </tr>
-  <tr>
-    <td>⚡ &nbsp;<b>State Mgmt (GetX)</b></td>
-    <td><img src="https://geps.dev/progress/75?dangerColor=6C3483&warningColor=6C3483&successColor=6C3483" /></td>
-    <td align="center"><code>75%</code></td>
-    <td align="center">✅ Strong</td>
-  </tr>
-  <tr>
-    <td>🏢 &nbsp;<b>State Mgmt (BLoC)</b></td>
-    <td><img src="https://geps.dev/progress/50?dangerColor=1E3A5F&warningColor=1E3A5F&successColor=1E3A5F" /></td>
-    <td align="center"><code>50%</code></td>
-    <td align="center">🔄 Learning</td>
-  </tr>
-  <tr>
-    <td>🏛️ &nbsp;<b>Clean Architecture</b></td>
-    <td><img src="https://geps.dev/progress/65?dangerColor=00C2FF&warningColor=00C2FF&successColor=00C2FF" /></td>
-    <td align="center"><code>65%</code></td>
-    <td align="center">🔄 Learning</td>
-  </tr>
-  <tr>
-    <td>🧪 &nbsp;<b>Widget Testing</b></td>
-    <td><img src="https://geps.dev/progress/30?dangerColor=E74C3C&warningColor=E74C3C&successColor=E74C3C" /></td>
-    <td align="center"><code>30%</code></td>
-    <td align="center">📚 Studying</td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════ -->
-<!--                KEY PROJECTS                    -->
-<!-- ══════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🗂️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 |
-|:----------|:--------------|:-------------|:--:|
-| 🛒 **Ecommerce App** | Full-featured shop with product filtering, cart & checkout flow using Clean Architecture | Flutter · GetX · REST API | [View →](https://github.com/juwelzan/ecommerce) |
-| 🎥 **YouTube Clone** | Custom video player UI with responsive design & API-based video loading | Flutter · Bloc · YouTube API | [View →](https://github.com/juwelzan/youtubelite) |
-| 🍔 **Recipe App** | Category-based recipe discovery with clean UI & smooth UX | Flutter · Provider · REST API | [View →](https://github.com/juwelzan/recipebook) |
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════ -->
-<!--              LEARNING ROADMAP                  -->
-<!-- ══════════════════════════════════════════════ -->
-
-## 🗺️ My Learning Roadmap
-
-```
-2025 Flutter Developer Journey
-─────────────────────────────────────────────────────────────
- ✅  Flutter Basics & Dart Fundamentals
- ✅  Widgets, Layouts & Custom UI
- ✅  REST API Integration & HTTP
- ✅  Firebase Auth & Firestore
- ✅  GetX State Management
- 🔄  Riverpod & Bloc (In Progress)
- 🔄  Clean Architecture (In Progress)
- 📌  Flutter Testing (Next Up)
- 📌  CI/CD & App Store Deployment
- 📌  Flutter Web & Desktop
- 🎯  Senior Flutter Developer (Goal)
-─────────────────────────────────────────────────────────────
-```
-
----
-
-<!-- ══════════════════════════════════════════════ -->
-<!--                GITHUB STATS                    -->
-<!-- ══════════════════════════════════════════════ -->
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=juwelzan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=0A84FF&text_color=C9D1D9&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juwelzan&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=FF6B35&currStreakLabel=00C2FF" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juwelzan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=C9D1D9&langs_count=8" width="40%" />
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════ -->
-<!--             CONTRIBUTION GRAPH                 -->
-<!-- ══════════════════════════════════════════════ -->
 
 ## 📅 Contribution Activity
 
@@ -391,41 +235,10 @@ Clean Architecture Layer Diagram
 
 ---
 
-<!-- ══════════════════════════════════════════════ -->
-<!--              CONTRIBUTION SNAKE                -->
-<!-- ══════════════════════════════════════════════ -->
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/juwelzan/juwelzan/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
 
----
 
-<!-- ══════════════════════════════════════════════ -->
-<!--                   TROPHIES                     -->
-<!-- ══════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juwelzan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════ -->
-<!--              MOTIVATIONAL QUOTE                -->
-<!-- ══════════════════════════════════════════════ -->
-
-## 💬 Daily Motivation
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-</div>
-
----
 
 <!-- ══════════════════════════════════════════════ -->
 <!--                CONTACT SECTION                 -->
@@ -439,10 +252,10 @@ Clean Architecture Layer Diagram
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-juwel-rana-161b59240)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juwelzan/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/juwelzan)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juwelzan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juwelxan@gmail.com)
 
 <br/><br/>
 
