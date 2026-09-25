@@ -58,26 +58,16 @@ final List<String> currentFocus = [
 
   // ─── What I'm Learning ──────────────────────────
   final List<String> learning = [
-  "📦 Advanced  State Management",
-  "🧪 Widget & Unit Testing in Flutter",
+  "📦 State Management"
   "⚡ Flutter Performance Profiling",
   "🖼️ CustomPaint & Canvas API",
-  "📐 RenderBox & Custom Render Objects",
   "🔗 MethodChannel & Platform Channels",
-  "⚙️ Flutter Plugin Development",
-  "🎨 Custom Widgets & Render Objects",
+  "🎨 Custom Widgets ",
   "🚀 Flutter Engine & Rendering Pipeline",
   "📱 Native Android (Kotlin) Integration",
   "🍎 Native iOS (Swift) Integration",
   "🧩 Platform Views",
-  "🎞️ Advanced Animations",
-  "🛠️ Isolates & Background Processing",
-  "📊 DevTools & Performance Optimization",
-  "🧠 Memory Management",
-  "🌐 WebAssembly (Wasm) for Flutter Web",
-  "🔐 App Security & Code Obfuscation",
-  "📦 Package & Plugin Publishing",
-  "🤖 CI/CD with GitHub Actions",
+  "🎞️ Animations",
 ];
 
   // ─── Fun Facts ──────────────────────────────────
@@ -88,10 +78,6 @@ final List<String> currentFocus = [
     "🌙 Peak Hours": "Late night coding sessions",
   };
 
-  // ─── Philosophy ─────────────────────────────────
-  @override
-  String get philosophy =>
-      "Consistency + Practice = Professional Developer 🎯";
 
 
 ```
